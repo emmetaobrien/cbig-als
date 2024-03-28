@@ -10,7 +10,8 @@
   "types": [
     {
       "information": {
-        "value": "BAM"
+        "value": "BAM",
+		"valueIRI": "http://uri.interlex.org/ilx_0778671"
       }
     },
     {
@@ -20,7 +21,8 @@
     },
     {
       "information": {
-        "value": "VCF"
+        "value": "VCF",
+		"valueIRI": "http://uri.interlex.org/ilx_0778344"
       }
     }
   ],
